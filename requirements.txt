@@ -17,7 +17,7 @@ Flask-PyMongo==2.3.0
 Flask-RESTful==0.3.7
 future==0.17.1
 googleapis-common-protos==1.5.10
-gunicorn==19.9.0
+gunicorn==22.0.0
 idna==2.8
 isodate==0.6.0
 isort==4.3.20
